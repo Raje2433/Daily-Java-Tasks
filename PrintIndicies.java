@@ -1,4 +1,4 @@
-public class PrintAllIndicies {
+public class PrintIndicies {
     public static void main(String[] args) {
         int[] arr = {5,7,8,7,7,2};
         if(arr.length==0){
