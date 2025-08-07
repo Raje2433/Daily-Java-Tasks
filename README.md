@@ -7,7 +7,7 @@ This repository contains the Java programs and DSA tasks I solve every day as pa
 
 ## 🚀 Goals
 
-- Practice Java core concepts (OOP, arrays, strings, etc.)
+- Practice Java core concepts and DSA
 - Improve logic-building and problem-solving skills
 - Stay consistent with daily code commits
 - Build strong foundations for coding interviews
