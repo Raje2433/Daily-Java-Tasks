@@ -1,4 +1,4 @@
-public class ReverseWords {
+public class Day02_ReverseWords{
     public static void main(String[] args) {
         String sentence = "I love Java";
         String[] words=sentence.split(" ");
